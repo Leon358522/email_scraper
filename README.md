@@ -1,5 +1,5 @@
 # Email Scraper ---------> Init Steps:
-Step 1 : Download Edge_webdriver from Microsoft and add it to your project directory  // For Linux: Just use other webdriver than edge
+Step 1 : Download Edge_webdriver from Microsoft and add it to your project directory  
 
 Step 2 : Build venv with required modules (selenium and re)
 
